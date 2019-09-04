@@ -289,7 +289,7 @@
 ',
       'First page' => '第一页',
       'Page %1' => '页 %1',
-      'You are required to change your password.' => '你需要更改你的密码',
+      'You are required to change your password.' => '你需要更改你的密码',1
       'No file was found matching your search criteria.' => '没有找到符合您搜索条件的文件',
       'To upload files, drag them from your computer' => '要上传文件，请将其从资源管理器中拖出',
       'Account settings' => '帐号设定',
